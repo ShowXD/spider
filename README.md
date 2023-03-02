@@ -1,2 +1,2 @@
 # spider
- Getting things without api. Only use on research.
+ Getting G without api. Only use on research.
